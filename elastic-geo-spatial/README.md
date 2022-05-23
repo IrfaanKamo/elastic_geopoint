@@ -16,4 +16,8 @@ $ node cities.js
 ``` shell
 $ node countys.js
 ```
+4. Test the Data for Geo Points on a bounding box
+``` shell
+$ node geo_point.js
+```
 #### Note : It creates index and load data from json file. If you want to re run please delete index and re run again. It applies for both POINT and SHAPES too.
